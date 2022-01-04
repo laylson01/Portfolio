@@ -6,7 +6,7 @@
 
 
 ## General info
-My Web Curriculum Vitae from Bootstrap Portfolio Websites Template |
+My Web Curriculum Vitae from Bootstrap Portfolio Websites Template.
 
 ## Technologies
 Project is created with:

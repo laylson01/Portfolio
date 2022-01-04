@@ -13,4 +13,4 @@ Project is created with:
 * Bootstrap v5.1.3
 * Swiper 7.3.0
 * Typed.js v2.0.12
-* HTML/ CSS/ JS
+* HTML5 / CSS3 / JAVASCRIPT
